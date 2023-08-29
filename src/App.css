@@ -1,0 +1,27 @@
+.quizz {
+  background-color: #eee7ec;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(213, 189, 235);
+  width: 50%;
+margin-left: 25%;
+margin-top: 100px;
+border-radius: 15px;
+}
+button {
+  background-color: rgba(233, 27, 106, 0.808);
+  border: none;
+  padding: 5px;
+  margin: 5px;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+button:hover{
+  background-color: rgb(230, 146, 225);
+}
